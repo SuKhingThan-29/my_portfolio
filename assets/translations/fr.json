@@ -1,0 +1,324 @@
+{
+    "name": "Su Khing Than",
+    "description": "移动开发者\n",
+    "subDescription": "Flutter | Android – Java/Kotlin | Node.js | MongoDB",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/SuKhingThan-29",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/su-khing-than-663794220/",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "sukhingthan91@gmail.com",
+            "url": "mailto:sukhingthan91@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+95 979 377 0810 ",
+            "url": "tel:+959793770810 ",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
+        },
+        {
+            "languageCode": "fr",
+            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "我是一名拥有 8 年移动和网络开发经验的高级移动开发工程师。\n我的技能包括 4 年 Android 开发（Java、Kotlin）、3 年以上 Flutter 开发，以及 1 年 PHP 前后端开发。\n我专注于构建完整的 Flutter 全栈应用，负责端到端移动项目开发，并与跨职能团队高效协作，交付高质量软件解决方案。\n目前，我正在强化 Node.js 和 MongoDB 的后端 API 开发能力，以打造更完整、可扩展的技术方案。",
+    "experiences": [
+        {
+            "role": "移动开发者",
+            "company": "Unidbox Hardware Pte Ltd",
+            "description": "参与 Unidbox 移动平台的开发，改进跨仓库调拨和库存管理流程。优化内部调拨搜索功能、支持订单接收流程和条码识别功能，并构建统一的计量单位（UOM）框架。通过这些改进，有效减少人工操作、提高准确性，并增强仓库团队之间的实时协作。",
+            "isPresent": true,
+            "startYear": 2025,
+            "endYear": 2025,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://erp.unidbox.com/",
+                    "display": "Unidbox.com"
+                }
+            ]
+        },
+        {
+            "role": "高级移动开发工程师",
+            "company": "QuickQ Innovation",
+            "description": "领导移动开发团队，负责 Sprint 规划并确保项目顺利执行。实现可扩展的 Flutter 架构与 CI/CD 流程，大幅提升开发效率。成功交付高性能的社交电商功能，并指导初级开发者，提高团队整体能力与代码质量。",
+            "isPresent": false,
+            "startYear": 2024,
+            "endYear": 2025,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://sites.disney.com/waltdisneyimagineering/",
+                    "display": "Walt Disney Imagineering"
+                }
+            ]
+        },
+        {
+            "role": "高级移动开发工程师",
+            "company": "App.com.mm",
+            "description": "使用 Riverpod 与 Provider 构建高性能移动应用。集成交互式地图、多语言支持与深度链接。实现安全支付流程与稳定的通知系统，以提升用户体验与应用性能。",
+            "startYear": 2023,
+            "startMonth": 1,
+            "endYear": 2024,
+            "endMonth": 5,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://app.com.mm",
+                    "display": "Solutions Multi Techniques"
+                }
+            ]
+        },
+        {
+            "role": "网页开发者",
+            "company": "Association FAIRE",
+            "description": "与开发团队合作完成协会官方网站的开发，向访问者提供关于协会的信息并支持会员注册。目前该网站的访问量已超过 10,000 次。",
+            "startYear": 2021,
+            "startMonth": 5,
+            "endYear": 2021,
+            "endMonth": 6,
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/html-5.svg"
+                    }
+                },
+                {
+                    "name": "CSS",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/css3.svg"
+                    }
+                },
+                {
+                    "name": "Javascript",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/javascript.svg"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.association-faire.fr",
+                    "display": "Association FAIRE"
+                }
+            ]
+        }
+    ],
+    "present": "目前",
+    "projects": [
+        {
+            "name": "Portfolio",
+            "description": "这个开源项目可以让任何人在不到 10 分钟内拥有一个在线作品集。它基于 Riverpod 架构，并采用功能优先的项目结构。完全响应式设计，支持多种主题和多语言功能。",
+            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://brittanychiang.com",
+                    "display": "灵感来源：Brittany Chiang"
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow Backoffice",
+            "description": "Learn Flow 是一个连接学生与教师的协作项目。该后台管理系统为管理员提供管理用户流量、发票及学生与教师活动的能力。整个系统为单页应用（SPA），运行高效且易于维护。",
+            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GSB-Frais",
+            "description": "GSB-Frais 是一个为虚拟公司 GSB 的医药代表及会计人员开发的费用管理系统。医药代表可以录入每月报告，会计则可以进行审核和处理，提高效率与透明度。",
+            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-frais.png",
+            "technologies": [
+                {
+                    "name": "Symfony",
+                    "icon": {
+                        "codePoint": "0xf0ab",
+                        "fontFamily": "FontAwesome"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "英语",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        {
+            "code": "fr",
+            "name": "法语",
+            "nativeName": "Français",
+            "icon": {
+                "assetName": "assets/icons/flags/france.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "开源作品集 -",
+        "displayLink": "Fork 它",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "作品集",
+    "homeSectionTitle": "首页",
+    "aboutSectionTitle": "关于",
+    "aboutSectionTitleAlt": "关于我",
+    "experienceSectionTitle": "工作经验",
+    "projectsSectionTitle": "项目",
+    "resume": "简历",
+    "downloadResume": "下载简历",
+    "openUrlError": "无法打开链接",
+    "unknownLanguageError": "未知语言",
+    "educationSectionTitle": "教育背景",
+    "skillSectionTitle": "技能"
+}
