@@ -163,15 +163,15 @@
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
+            "name": "Little Tots Cards",
+            "description": "Little Tots Card App is an interactive learning application designed for young children. It displays colorful fruit flash cards with matching sounds to help kids learn.",
             "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/little_tots_cards.jpg",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -186,52 +186,8 @@
                     }
                 }
             ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
         }
+
     ],
     "languages": [
         {
@@ -259,6 +215,16 @@
         "Firebase, Deep Linking, Maps",
         "Git, Bitbucket, CI/CD"
     ],
+    "education": [
+        "Master of Engineering — Computer Science & IT (2014–2017)\n Yangon Technological University",
+
+        "Bachelor of Engineering — Computer Science & IT (2008–2013)\n Hmawbi Technological University",
+        "Diploma in Java Programming Language - IMCEITS (2014)",
+        "Certificate in Android Programming — IMCEITS (2015)"
+
+
+    ],
+
     "bottomBanner": {
         "message": "Open source portfolio -",
         "displayLink": "Fork it",
@@ -275,5 +241,7 @@
     "openUrlError": "Could not open the url",
     "unknownLanguageError": "Language unknown",
     "educationSectionTitle": "Educations",
+    "certificatesSectionTitle": "Certifications",
+
     "skillSectionTitle": "Skill"
 }
