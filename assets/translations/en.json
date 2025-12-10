@@ -1,247 +1,272 @@
 {
-    "name": "Su Khing Than",
-    "description": "Mobile Developer\n",
-    "subDescription": "Flutter | Android – Java/Kotlin | Node.js | MongoDB",
-    "contacts": [
-        {
-            "tooltip": "Github",
-            "url": "https://github.com/SuKhingThan-29",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/su-khing-than-663794220/",
-            "icon": {
-                "codePoint": "0xeffb",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "sukhingthan91@gmail.com",
-            "url": "mailto:sukhingthan91@gmail.com",
-            "icon": {
-                "codePoint": "0xeaad",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "+95 979 377 0810 ",
-            "url": "tel:+959793770810 ",
-            "icon": {
-                "codePoint": "0xecbb",
-                "fontFamily": "FontAwesome"
-            }
-        }
-    ],
-    "resumes": [
-        {
-            "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
-        },
-        {
-            "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
-        }
-    ],
-    "aboutDescription": "Senior Mobile Developer with 8+ years of experience specializing in Flutter, Android (Java/Kotlin), backend APIs, and scalable architectures. Strong background in leading mobile teams, delivering full-stack solutions, and optimizing app performance. Skilled in modern state-management (Riverpod, Provider, GetX), Firebase, CI/CD pipelines, and backend development with Node.js and MongoDB.",
-    "experiences": [
-        {
-            "role": "Flutter Mobile Developer",
-            "company": "Unidbox Hardware Pte Ltd",
-            "description": "Enhanced warehouse workflows including internal transfer search, barcode scanning, and UOM consistency across modules. Improved accuracy, reduced manual workloads, and optimized real-time warehouse communication.",
-            "isPresent": true,
-            "startYear": 2025,
-            "startMonth": 5,
-            "technologies": [
-                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
-                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
-            ],
-            "links": [{ "url": "https://erp.unidbox.com/", "display": "Unidbox.com" }]
-        },
-        {
-            "role": "Mobile Team Lead (Flutter)",
-            "company": "QuickQ Innovation",
-            "description": "Led mobile team operations, sprint planning, and development cycles. Delivered Social E-commerce features with high performance and reliability. Established CI/CD pipelines and scalable Flutter architecture. Mentored junior developers and improved team productivity.",
-            "isPresent": false,
-            "startYear": 2024,
-            "endYear": 2025,
-            "startMonth": 8,
-            "endMonth": 4,
-            "technologies": [
-                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
-                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
-            ],
-            "links": [
-                { "url": "https://www.quickquality.ltd/", "display": "QuickQ Innovation - HR Solution" }
-            ]
-        },
-        {
-            "role": "Mobile Team Lead",
-            "company": "App.com.mm",
-            "description": "Led development of high-traffic consumer apps using Riverpod-based architecture. Integrated Maps, multilingual features, deep linking, and secure payment flows. Improved app reliability with analytics, crash reporting, and runtime monitoring.",
-            "startYear": 2023,
-            "endYear": 2024,
-            "startMonth": 1,
-            "endMonth": 5,
-            "technologies": [
-                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
-                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
-            ],
-            "links": [{ "url": "https://app.com.mm/", "display": "App.com.mm" }]
-        },
-        {
-            "role": "Senior Mobile Developer (Flutter)",
-            "company": "DK Mads Co., Ltd",
-            "description": "Developed Athabyar, Chit May May, and Edu Click apps using GetX with MVC architecture. Integrated ads, analytics, and crash reporting. Deployed apps to Play Store and App Store.",
-            "startYear": 2021,
-            "endYear": 2022,
-            "startMonth": 11,
-            "endMonth": 10
-        },
-        {
-            "role": "Senior Android Developer (Kotlin)",
-            "company": "Systematic Business Solution",
-            "description": "Built large-scale Android apps with order tracking, invoice management, and notifications. Developed AR modules and advanced GPS-based features.",
-            "startYear": 2019,
-            "endYear": 2021,
-            "startMonth": 6,
-            "endMonth": 11
-        },
-        {
-            "role": "Senior Android Developer (Java)",
-            "company": "Creative Web Studio",
-            "description": "Developed telecom apps including Shop Myar, Lucky Draw, and ATOM/Telenor systems. Implemented OTP/SMS verification, deep linking, and subscription services.",
-            "startYear": 2017,
-            "endYear": 2019,
-            "startMonth": 1,
-            "endMonth": 5
-        },
-        {
-            "role": "Web Developer (PHP)",
-            "company": "IrraHub Co., Ltd",
-            "description": "Built ERP registration system using Yii Framework. Coordinated with government officials and performed QA and system verification.",
-            "startYear": 2015,
-            "endYear": 2016,
-            "startMonth": 11,
-            "endMonth": 11
-        }
-    ],
-    "present": "Present",
-    "projects": [
-        {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/portfolio.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
-                }
-            ]
-        },
-        {
-            "name": "Little Tots Cards",
-            "description": "Little Tots Card App is an interactive learning application designed for young children. It displays colorful fruit flash cards with matching sounds to help kids learn.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/little_tots_cards.jpg",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        }
-
-    ],
-    "languages": [
-        {
-            "code": "en",
-            "name": "English",
-            "nativeName": "English",
-            "icon": {
-                "assetName": "assets/icons/flags/united-states-of-america.svg"
-            }
-        },
-        {
-            "code": "fr",
-            "name": "Chinese",
-            "nativeName": "Chinese",
-            "icon": {
-                "assetName": "assets/icons/flags/france.svg"
-            }
-        }
-    ],
-    "skills": [
-        "Flutter / Dart",
-        "Android (Java / Kotlin)",
-        "Riverpod, Provider, GetX",
-        "REST API, Node.js, MongoDB",
-        "Firebase, Deep Linking, Maps",
-        "Git, Bitbucket, CI/CD"
-    ],
-    "education": [
-        "Master of Engineering — Computer Science & IT (2014–2017)\n Yangon Technological University",
-
-        "Bachelor of Engineering — Computer Science & IT (2008–2013)\n Hmawbi Technological University",
-        "Diploma in Java Programming Language - IMCEITS (2014)",
-        "Certificate in Android Programming — IMCEITS (2015)"
-
-
-    ],
-
-    "bottomBanner": {
-        "message": "Open source portfolio -",
-        "displayLink": "Fork it",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+  "name": "Su Khing Than",
+  "description": "Mobile Developer",
+  "subDescription": "Flutter | Android – Java/Kotlin | Php | Node.js | MongoDB",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/SuKhingThan-29",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
     },
-    "portfolio": "Portfolio",
-    "homeSectionTitle": "Home",
-    "aboutSectionTitle": "About",
-    "aboutSectionTitleAlt": "About Me",
-    "experienceSectionTitle": "Experience",
-    "projectsSectionTitle": "Projects",
-    "resume": "Resume",
-    "downloadResume": "Download resume",
-    "openUrlError": "Could not open the url",
-    "unknownLanguageError": "Language unknown",
-    "educationSectionTitle": "Educations",
-    "certificatesSectionTitle": "Certifications",
-
-    "skillSectionTitle": "Skill"
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/su-khing-than-663794220/",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "sukhingthan91@gmail.com",
+      "url": "mailto:sukhingthan91@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+95 979 377 0810 ",
+      "url": "tel:+959793770810 ",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1lo7AWZAduN2d6Uti6WZQp8X1ikouJQpv/view?usp=share_link"
+    },
+    {
+      "languageCode": "fr",
+      "url": "https://drive.google.com/file/d/1lo7AWZAduN2d6Uti6WZQp8X1ikouJQpv/view?usp=share_link"
+    }
+  ],
+  "aboutDescription": "Senior Mobile Developer with 8+ years of experience specializing in Flutter, Android (Java/Kotlin), backend APIs, and scalable architectures. Strong background in leading mobile teams, delivering full-stack solutions, and optimizing app performance. Skilled in modern state-management (Riverpod, Provider, GetX), Firebase, CI/CD pipelines, and backend development with Node.js and MongoDB.",
+  "experiences": [
+    {
+      "role": "Flutter Mobile Developer",
+      "company": "Unidbox Hardware Pte Ltd",
+      "description": "Enhanced warehouse workflows including internal transfer search, barcode scanning, and UOM consistency across modules. Improved accuracy, reduced manual workloads, and optimized real-time warehouse communication.",
+      "isPresent": true,
+      "startYear": 2025,
+      "startMonth": 5,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://erp.unidbox.com/",
+          "display": "Unidbox.com"
+        }
+      ]
+    },
+    {
+      "role": "Mobile Team Lead (Flutter)",
+      "company": "QuickQ Innovation",
+      "description": "Led mobile team operations, sprint planning, and development cycles. Delivered Social E-commerce features with high performance and reliability. Established CI/CD pipelines and scalable Flutter architecture. Mentored junior developers and improved team productivity.",
+      "isPresent": false,
+      "startYear": 2024,
+      "endYear": 2025,
+      "startMonth": 8,
+      "endMonth": 4,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.quickquality.ltd/",
+          "display": "QuickQ Innovation - HR Solution"
+        }
+      ]
+    },
+    {
+      "role": "Mobile Team Lead",
+      "company": "App.com.mm",
+      "description": "Led development of high-traffic consumer apps using Riverpod-based architecture. Integrated Maps, multilingual features, deep linking, and secure payment flows. Improved app reliability with analytics, crash reporting, and runtime monitoring.",
+      "startYear": 2023,
+      "endYear": 2024,
+      "startMonth": 1,
+      "endMonth": 5,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://app.com.mm/",
+          "display": "App.com.mm"
+        }
+      ]
+    },
+    {
+      "role": "Senior Mobile Developer (Flutter)",
+      "company": "DK Mads Co., Ltd",
+      "description": "Developed Athabyar, Chit May May, and Edu Click apps using GetX with MVC architecture. Integrated ads, analytics, and crash reporting. Deployed apps to Play Store and App Store.",
+      "startYear": 2021,
+      "endYear": 2022,
+      "startMonth": 11,
+      "endMonth": 10
+    },
+    {
+      "role": "Senior Android Developer (Kotlin)",
+      "company": "Systematic Business Solution",
+      "description": "Built large-scale Android apps with order tracking, invoice management, and notifications. Developed AR modules and advanced GPS-based features.",
+      "startYear": 2019,
+      "endYear": 2021,
+      "startMonth": 6,
+      "endMonth": 11
+    },
+    {
+      "role": "Senior Android Developer (Java)",
+      "company": "Creative Web Studio",
+      "description": "Developed telecom apps including Shop Myar, Lucky Draw, and ATOM/Telenor systems. Implemented OTP/SMS verification, deep linking, and subscription services.",
+      "startYear": 2017,
+      "endYear": 2019,
+      "startMonth": 1,
+      "endMonth": 5
+    },
+    {
+      "role": "Web Developer (PHP)",
+      "company": "IrraHub Co., Ltd",
+      "description": "Built ERP registration system using Yii Framework. Coordinated with government officials and performed QA and system verification.",
+      "startYear": 2015,
+      "endYear": 2016,
+      "startMonth": 11,
+      "endMonth": 11
+    }
+  ],
+  "present": "Present",
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
+      "url": "https://github.com/AladdineDev/portfolio#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/portfolio.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://brittanychiang.com",
+          "display": "Inspired by Brittany Chiang"
+        }
+      ]
+    },
+    {
+      "name": "Little Tots Cards",
+      "description": "Little Tots Card App is an interactive learning application designed for young children. It displays colorful fruit flash cards with matching sounds to help kids learn.",
+      "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/little_tots_cards.jpg",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "fr",
+      "name": "France",
+      "nativeName": "France",
+      "icon": {
+        "assetName": "assets/icons/flags/france.svg"
+      }
+    }
+  ],
+  "skills": "Flutter / Dart, Android (Java/Kotlin), Php, Yii2 Framework, Laravel, Riverpod, GetX, Provider, Bloc, Node.js, MongoDB",
+  "education": "Master of Engineering — Computer Science & IT \n   Yangon Technological University (2014–2017), Bachelor of Engineering — Computer Science & IT \n   Hmawbi Technological University (2008–2013), Diploma in Java Programming Language \n   India-Myanmar Centre for Enhancement of IT Skills \n   (IMCEITS) - 2014, Certificate in Android Programming \n   India-Myanmar Centre for Enhancement of IT Skills \n   (IMCEITS) - 2015",
+  "bottomBanner": {
+    "message": "Open source portfolio -",
+    "displayLink": "Fork it",
+    "linkUrl": "https://github.com/SuKhingThan-29/my_portfolio"
+  },
+  "portfolio": "Portfolio",
+  "homeSectionTitle": "Home",
+  "aboutSectionTitle": "About",
+  "aboutSectionTitleAlt": "About Me",
+  "experienceSectionTitle": "Experience",
+  "projectsSectionTitle": "Projects",
+  "resume": "Resume",
+  "downloadResume": "Download resume",
+  "openUrlError": "Could not open the url",
+  "unknownLanguageError": "Language unknown",
+  "educationSectionTitle": "Educations",
+  "certificatesSectionTitle": "Certifications",
+  "skillSectionTitle": "Skill"
 }

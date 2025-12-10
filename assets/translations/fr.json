@@ -1,7 +1,7 @@
 {
     "name": "Su Khing Than",
-    "description": "移动开发者\n",
-    "subDescription": "Flutter | Android – Java/Kotlin | Node.js | MongoDB",
+    "description": "Développeur Mobile",
+    "subDescription": "Flutter | Android – Java/Kotlin | PHP | Node.js | MongoDB",
     "contacts": [
         {
             "tooltip": "Github",
@@ -39,35 +39,25 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1lo7AWZAduN2d6Uti6WZQp8X1ikouJQpv/view?usp=share_link"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1obVIikseuc_RplFV5oaPvKk8V1cGutMk/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1lo7AWZAduN2d6Uti6WZQp8X1ikouJQpv/view?usp=share_link"
         }
     ],
-    "aboutDescription": "我是一名拥有 8 年移动和网络开发经验的高级移动开发工程师。\n我的技能包括 4 年 Android 开发（Java、Kotlin）、3 年以上 Flutter 开发，以及 1 年 PHP 前后端开发。\n我专注于构建完整的 Flutter 全栈应用，负责端到端移动项目开发，并与跨职能团队高效协作，交付高质量软件解决方案。\n目前，我正在强化 Node.js 和 MongoDB 的后端 API 开发能力，以打造更完整、可扩展的技术方案。",
+    "aboutDescription": "Développeur mobile senior avec plus de 8 ans d’expérience spécialisé dans Flutter, Android (Java/Kotlin), les API backend et les architectures évolutives. Solide expérience dans la gestion d’équipes mobiles, la livraison de solutions full-stack et l’optimisation des performances des applications. Compétences en gestion d’état moderne (Riverpod, Provider, GetX), Firebase, pipelines CI/CD, ainsi qu’en développement backend avec Node.js et MongoDB.",
     "experiences": [
         {
-            "role": "移动开发者",
+            "role": "Développeur Mobile Flutter",
             "company": "Unidbox Hardware Pte Ltd",
-            "description": "参与 Unidbox 移动平台的开发，改进跨仓库调拨和库存管理流程。优化内部调拨搜索功能、支持订单接收流程和条码识别功能，并构建统一的计量单位（UOM）框架。通过这些改进，有效减少人工操作、提高准确性，并增强仓库团队之间的实时协作。",
+            "description": "Amélioration des flux de travail d’entrepôt incluant la recherche de transfert interne, le scan de codes-barres et la cohérence des UOM entre les modules. Augmentation de la précision, réduction du travail manuel et optimisation de la communication en temps réel dans l’entrepôt.",
             "isPresent": true,
             "startYear": 2025,
-            "endYear": 2025,
+            "startMonth": 5,
             "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
+                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
+                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
             ],
             "links": [
                 {
@@ -77,116 +67,80 @@
             ]
         },
         {
-            "role": "高级移动开发工程师",
+            "role": "Chef d’Équipe Mobile (Flutter)",
             "company": "QuickQ Innovation",
-            "description": "领导移动开发团队，负责 Sprint 规划并确保项目顺利执行。实现可扩展的 Flutter 架构与 CI/CD 流程，大幅提升开发效率。成功交付高性能的社交电商功能，并指导初级开发者，提高团队整体能力与代码质量。",
+            "description": "Gestion des opérations de l’équipe mobile, de la planification des sprints et des cycles de développement. Livraison de fonctionnalités de Social E-commerce avec hautes performances et fiabilité. Mise en place de pipelines CI/CD et d’architectures Flutter évolutives. Mentorat des développeurs juniors et amélioration de la productivité de l’équipe.",
             "isPresent": false,
             "startYear": 2024,
             "endYear": 2025,
+            "startMonth": 8,
+            "endMonth": 4,
             "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
+                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
+                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
             ],
             "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
+                { "url": "https://www.quickquality.ltd/", "display": "QuickQ Innovation - HR Solution" }
             ]
         },
         {
-            "role": "高级移动开发工程师",
+            "role": "Chef d’Équipe Mobile",
             "company": "App.com.mm",
-            "description": "使用 Riverpod 与 Provider 构建高性能移动应用。集成交互式地图、多语言支持与深度链接。实现安全支付流程与稳定的通知系统，以提升用户体验与应用性能。",
+            "description": "Direction du développement d’applications grand public à fort trafic basées sur une architecture Riverpod. Intégration de Maps, fonctionnalités multilingues, deep linking et paiements sécurisés. Amélioration de la fiabilité via analytics, crash reporting et monitoring runtime.",
             "startYear": 2023,
-            "startMonth": 1,
             "endYear": 2024,
+            "startMonth": 1,
             "endMonth": 5,
             "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
+                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
+                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
             ],
             "links": [
-                {
-                    "url": "https://app.com.mm",
-                    "display": "Solutions Multi Techniques"
-                }
+                { "url": "https://app.com.mm/", "display": "App.com.mm" }
             ]
         },
         {
-            "role": "网页开发者",
-            "company": "Association FAIRE",
-            "description": "与开发团队合作完成协会官方网站的开发，向访问者提供关于协会的信息并支持会员注册。目前该网站的访问量已超过 10,000 次。",
+            "role": "Développeur Mobile Senior (Flutter)",
+            "company": "DK Mads Co., Ltd",
+            "description": "Développement des applications Athabyar, Chit May May et Edu Click en utilisant GetX avec architecture MVC. Intégration de publicités, analytics et crash reporting. Déploiement sur Play Store et App Store.",
             "startYear": 2021,
-            "startMonth": 5,
+            "endYear": 2022,
+            "startMonth": 11,
+            "endMonth": 10
+        },
+        {
+            "role": "Développeur Android Senior (Kotlin)",
+            "company": "Systematic Business Solution",
+            "description": "Développement d’applications Android à grande échelle avec suivi de commandes, gestion de factures et notifications. Conception de modules AR et fonctionnalités avancées basées sur GPS.",
+            "startYear": 2019,
             "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/html-5.svg"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/css3.svg"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/javascript.svg"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
-            ]
+            "startMonth": 6,
+            "endMonth": 11
+        },
+        {
+            "role": "Développeur Android Senior (Java)",
+            "company": "Creative Web Studio",
+            "description": "Développement d’applications télécom incluant Shop Myar, Lucky Draw et les systèmes ATOM/Telenor. Implémentation OTP/SMS, deep linking et services d’abonnement.",
+            "startYear": 2017,
+            "endYear": 2019,
+            "startMonth": 1,
+            "endMonth": 5
+        },
+        {
+            "role": "Développeur Web (PHP)",
+            "company": "IrraHub Co., Ltd",
+            "description": "Développement d’un système d’enregistrement ERP utilisant le framework Yii. Coordination avec les responsables gouvernementaux, tests QA et validation du système.",
+            "startYear": 2015,
+            "endYear": 2016,
+            "startMonth": 11,
+            "endMonth": 11
         }
     ],
-    "present": "目前",
+    "present": "Présent",
     "projects": [
         {
             "name": "Portfolio",
-            "description": "这个开源项目可以让任何人在不到 10 分钟内拥有一个在线作品集。它基于 Riverpod 架构，并采用功能优先的项目结构。完全响应式设计，支持多种主题和多语言功能。",
+            "description": "Projet open source permettant à chacun de créer un portfolio en ligne en moins de 10 minutes. Basé sur Riverpod et une architecture feature-first. Entièrement responsive et compatible multi-thèmes et multi-langues.",
             "url": "https://github.com/AladdineDev/portfolio#readme",
             "icon": {
                 "codePoint": "0xefb7",
@@ -195,130 +149,61 @@
             },
             "screenshotPath": "assets/images/portfolio.png",
             "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
+                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
+                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
             ],
             "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "灵感来源：Brittany Chiang"
-                }
+                { "url": "https://brittanychiang.com", "display": "Inspiré par Brittany Chiang" }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "Learn Flow 是一个连接学生与教师的协作项目。该后台管理系统为管理员提供管理用户流量、发票及学生与教师活动的能力。整个系统为单页应用（SPA），运行高效且易于维护。",
+            "name": "Little Tots Cards",
+            "description": "Little Tots Cards est une application interactive d’apprentissage pour les enfants, affichant des cartes de fruits colorées accompagnées de sons pour faciliter l’apprentissage.",
             "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/little_tots_cards.jpg",
             "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "GSB-Frais 是一个为虚拟公司 GSB 的医药代表及会计人员开发的费用管理系统。医药代表可以录入每月报告，会计则可以进行审核和处理，提高效率与透明度。",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
+                { "name": "Flutter", "icon": { "assetName": "assets/icons/software-development/flutter.svg" } },
+                { "name": "Dart", "icon": { "assetName": "assets/icons/other/dart.svg" } }
             ]
         }
     ],
     "languages": [
         {
             "code": "en",
-            "name": "英语",
+            "name": "Anglais",
             "nativeName": "English",
-            "icon": {
-                "assetName": "assets/icons/flags/united-states-of-america.svg"
-            }
+            "icon": { "assetName": "assets/icons/flags/united-states-of-america.svg" }
         },
         {
             "code": "fr",
-            "name": "法语",
+            "name": "Français",
             "nativeName": "Français",
-            "icon": {
-                "assetName": "assets/icons/flags/france.svg"
-            }
+            "icon": { "assetName": "assets/icons/flags/france.svg" }
         }
     ],
+    "skills": "Flutter / Dart, Android (Java/Kotlin), PHP, Yii2 Framework, Laravel, Riverpod, GetX, Provider, Bloc, Node.js, MongoDB",
+    "education": "Master of Engineering — Computer Science & IT \n   Yangon Technological University (2014–2017), Bachelor of Engineering — Computer Science & IT \n   Hmawbi Technological University (2008–2013), Diplôme en programmation Java \n   India-Myanmar Centre for Enhancement of IT Skills \n   (IMCEITS) - 2014, Certificat en programmation Android \n   India-Myanmar Centre for Enhancement of IT Skills \n   (IMCEITS) - 2015",
     "bottomBanner": {
-        "message": "开源作品集 -",
-        "displayLink": "Fork 它",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "message": "Portfolio open source -",
+        "displayLink": "Forkez-le",
+        "linkUrl": "https://github.com/SuKhingThan-29/my_portfolio"
     },
-    "portfolio": "作品集",
-    "homeSectionTitle": "首页",
-    "aboutSectionTitle": "关于",
-    "aboutSectionTitleAlt": "关于我",
-    "experienceSectionTitle": "工作经验",
-    "projectsSectionTitle": "项目",
-    "resume": "简历",
-    "downloadResume": "下载简历",
-    "openUrlError": "无法打开链接",
-    "unknownLanguageError": "未知语言",
-    "educationSectionTitle": "教育背景",
-    "skillSectionTitle": "技能"
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Accueil",
+    "aboutSectionTitle": "À propos",
+    "aboutSectionTitleAlt": "À propos de moi",
+    "experienceSectionTitle": "Expérience",
+    "projectsSectionTitle": "Projets",
+    "resume": "CV",
+    "downloadResume": "Télécharger le CV",
+    "openUrlError": "Impossible d’ouvrir l’URL",
+    "unknownLanguageError": "Langue inconnue",
+    "educationSectionTitle": "Formations",
+    "certificatesSectionTitle": "Certifications",
+    "skillSectionTitle": "Compétences"
 }
